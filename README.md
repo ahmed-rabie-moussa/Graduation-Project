@@ -11,4 +11,4 @@
 ###    •	Client-Server system.
 ###    •	Mediation software.
 
-# we used MongoDB, PostgreSQL and MySql as an indication that we may have different DB systems in different pharmacies
+* we used MongoDB, PostgreSQL and MySql as an indication that we may have different DB systems in different pharmacies
